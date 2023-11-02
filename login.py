@@ -47,5 +47,4 @@ def main(page: ft.Page):
     page.update()
 
 if __name__ == "__main__":
-    f
-    #flet.app(target=main)
+    flet.app(target=main)
